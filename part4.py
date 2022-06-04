@@ -12,3 +12,8 @@ Enter a number or enter 0 to stop: 0
 Product: 60
 
 '''
+x = int(input("Enter a number or enter 0 to stop:"))
+while x != 0 :
+  num1 = int(input("Enter a number or enter 0 to     stop:"))
+  x * num1 = x
+print ("Product:", num)
